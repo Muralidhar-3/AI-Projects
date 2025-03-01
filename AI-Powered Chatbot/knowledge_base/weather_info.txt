@@ -1,0 +1,89 @@
+Weather Terms and Information:
+
+Temperature Scales:
+- Celsius (°C): The most commonly used temperature scale worldwide
+- Fahrenheit (°F): Primarily used in the United States
+- Conversion: °F = (°C × 9/5) + 32
+
+Weather Conditions:
+1. Clear/Sunny: No significant cloud cover, direct sunlight
+2. Partly Cloudy: Some clouds present but not covering the entire sky
+3. Overcast: Complete cloud coverage
+4. Rain: Precipitation in liquid form
+5. Thunderstorm: Storm with lightning and thunder
+6. Snow: Frozen precipitation in the form of snowflakes
+7. Fog: Low-lying clouds reducing visibility
+8. Haze: Reduced visibility due to particles in the air
+
+Weather Measurements:
+- Temperature: Measures how hot or cold the air is
+- Humidity: Amount of water vapor in the air
+- Wind Speed: Usually measured in km/h or mph
+- Precipitation: Amount of rain/snow measured in mm or inches
+- Air Pressure: Measured in hectopascals (hPa) or millibars (mb)
+
+Common Weather Phenomena:
+1. Rainbow: Optical phenomenon occurring when sunlight interacts with water droplets
+2. Lightning: Electrical discharge during storms
+3. Hurricane/Cyclone: Severe tropical storm with wind speeds over 119 km/h
+4. Tornado: Violently rotating column of air extending from a storm to the ground
+5. Heat Wave: Extended period of unusually high temperatures
+6. Cold Front: Leading edge of advancing cold air mass
+7. Warm Front: Leading edge of advancing warm air mass
+
+Weather Safety Tips:
+1. During Thunder/Lightning:
+   - Stay indoors
+   - Avoid using electrical equipment
+   - Stay away from tall objects if outdoors
+
+2. During Extreme Heat:
+   - Stay hydrated
+   - Avoid direct sunlight
+   - Use air conditioning or fans
+   - Check on vulnerable people
+
+3. During Heavy Rain/Flooding:
+   - Avoid driving through flooded areas
+   - Stay away from power lines
+   - Move to higher ground if necessary
+
+4. During Snow/Ice:
+   - Drive carefully
+   - Dress in layers
+   - Keep emergency supplies ready
+
+Climate vs Weather:
+- Weather: Short-term conditions of the atmosphere
+- Climate: Long-term average weather patterns in an area
+
+Common Weather Effects:
+1. UV Index: Measures intensity of solar radiation
+2. Wind Chill: How cold it feels considering wind speed
+3. Heat Index: How hot it feels considering humidity
+4. Dew Point: Temperature at which water vapor condenses
+
+Weather Forecasting Methods:
+1. Satellite Imagery
+2. Weather Radar
+3. Weather Stations
+4. Computer Models
+5. Historical Data Analysis
+
+Seasonal Weather Patterns:
+- Spring: Generally mild temperatures, increased rainfall
+- Summer: Warmer temperatures, longer daylight hours
+- Autumn: Cooling temperatures, variable conditions
+- Winter: Colder temperatures, possible snow/ice
+
+Air Quality Information:
+- AQI (Air Quality Index): Measures air pollution levels
+- Common Pollutants: PM2.5, PM10, Ozone, NO2, SO2
+- Health Impact: Poor air quality can affect respiratory health
+
+Weather Impact on Daily Life:
+1. Agriculture: Crop growth and harvesting
+2. Transportation: Flight delays, road conditions
+3. Energy Usage: Heating and cooling demands
+4. Outdoor Activities: Sports and events
+5. Health: Air quality and temperature effects 

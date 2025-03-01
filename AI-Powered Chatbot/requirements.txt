@@ -1,3 +1,5 @@
 flask
 cohere
+python-dotenv
 requests
+serverless-wsgi 
