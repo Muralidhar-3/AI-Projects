@@ -1,0 +1,130 @@
+Investment and Trading Knowledge Base:
+
+Investment Basics:
+1. Types of Investments:
+   - Stocks: Ownership shares in companies
+   - Bonds: Debt instruments issued by governments/corporations
+   - Mutual Funds: Pooled investment vehicles
+   - ETFs: Exchange-traded funds
+   - Real Estate: Property investments
+   - Cryptocurrencies: Digital assets
+
+Stock Market Fundamentals:
+1. Market Analysis:
+   - Technical Analysis: Study of price patterns and trends
+   - Fundamental Analysis: Study of company financials
+   - Market Indicators: Volume, Moving Averages, RSI, MACD
+
+2. Key Financial Metrics:
+   - P/E Ratio: Price to Earnings
+   - EPS: Earnings Per Share
+   - Market Cap: Total company value
+   - Dividend Yield: Annual dividend/stock price
+   - Beta: Stock volatility measure
+
+Trading Strategies:
+1. Day Trading:
+   - Intraday trading
+   - Price action trading
+   - Scalping
+   - Momentum trading
+
+2. Long-term Investment:
+   - Buy and hold
+   - Value investing
+   - Growth investing
+   - Dollar-cost averaging
+
+Risk Management:
+1. Portfolio Diversification:
+   - Asset allocation
+   - Sector distribution
+   - Geographic diversification
+   - Risk/reward ratio
+
+2. Risk Control:
+   - Stop-loss orders
+   - Position sizing
+   - Portfolio rebalancing
+   - Risk-reward ratios
+
+Market Terms:
+1. Common Terms:
+   - Bull Market: Rising market
+   - Bear Market: Falling market
+   - Volatility: Price fluctuation
+   - Liquidity: Ease of buying/selling
+   - Volume: Trading activity level
+
+2. Order Types:
+   - Market Order
+   - Limit Order
+   - Stop Order
+   - Stop-Limit Order
+
+Investment Vehicles:
+1. Retirement Accounts:
+   - 401(k)
+   - IRA
+   - Roth IRA
+   - Pension plans
+
+2. Investment Products:
+   - Index Funds
+   - Mutual Funds
+   - ETFs
+   - Bonds
+   - REITs
+
+Financial Planning:
+1. Personal Finance:
+   - Budgeting
+   - Emergency fund
+   - Debt management
+   - Tax planning
+
+2. Investment Goals:
+   - Retirement planning
+   - Wealth building
+   - Income generation
+   - Capital preservation
+
+Market Analysis:
+1. Economic Indicators:
+   - GDP growth
+   - Inflation rates
+   - Interest rates
+   - Employment data
+
+2. Company Analysis:
+   - Financial statements
+   - Industry analysis
+   - Competitive position
+   - Management quality
+
+Trading Psychology:
+1. Emotional Control:
+   - Fear and greed
+   - FOMO (Fear of Missing Out)
+   - Risk tolerance
+   - Discipline in trading
+
+2. Best Practices:
+   - Trading plan
+   - Journal keeping
+   - Performance review
+   - Continuous learning
+
+Investment Risks:
+1. Types of Risk:
+   - Market risk
+   - Interest rate risk
+   - Credit risk
+   - Inflation risk
+   - Currency risk
+
+2. Risk Mitigation:
+   - Diversification
+   - Asset allocation
+   - Regular monitoring
+   - Rebalancing
